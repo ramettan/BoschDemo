@@ -2,7 +2,7 @@
 
 # Conan Example
 
-Several Conan examples to complement the documentation and blog.aa
+Several Conan examples to complement the documentation and blog.
 
 ## Examples
 
