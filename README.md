@@ -4,6 +4,8 @@
 
 Several Conan examples to complement the documentation and blog.
 
+demo demo
+
 ## Examples
 
 ### [Getting started with Conan](libraries/poco/md5)
