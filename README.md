@@ -98,5 +98,5 @@ Documentation: https://docs.conan.io/en/laters/integrations/deployment.html
 All our examples can be built on Windows, Linux and Mac. If you are interested to reproduce
 the examples in your environment, please check the scripts inside every example folder.
 
-## LICENSE
+## LICENSEs
 [MIT](LICENSE)
