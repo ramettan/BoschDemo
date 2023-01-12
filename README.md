@@ -8,7 +8,7 @@ Several Conan examples to complement the documentation and blog.
 
 ### [Getting started with Conan](libraries/poco/md5)
 
-Example how to use Conan to consume binaries.
+Examples how to use Conan to consume binaries.
 
 Documentation: https://docs.conan.io/en/latest/getting_started.html
 
