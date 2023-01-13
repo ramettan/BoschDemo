@@ -93,6 +93,8 @@ Shows how to integrate a build-system in Conan using an *installer*, a *build-he
 
 Shows how to use conan ``json`` generator with custom script to automate the creation of deployable artifact ([makeself.io](https://makeself.io))
 
+Conan consists of the client and server. The recommended server is JFrog Artifactory Community Edition (CE). JFrog Artifactory Community Edition (CE) is free to use. So In this tutorial, I will use it to give a general overview of both client and server aspects.
+
 Documentation: https://docs.conan.io/en/laters/integrations/deployment.html
 
 ## How can I reproduce the build steps?
