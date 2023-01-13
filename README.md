@@ -4,7 +4,7 @@
 
 Several Conan examples to complement the documentation and blog.
 This is DCP @USI
-Jenkins is also play vital role
+Jenkins is also play vital roles
 
 ## Examples
 
