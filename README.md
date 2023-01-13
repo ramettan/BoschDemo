@@ -3,7 +3,7 @@
 # Conan Example
 test11aa
 
-Several Conan examples to complement the documentation and blog.
+Several Conan examples to complement the documentation and blogs written for Conan
 
 ## Examples
 
